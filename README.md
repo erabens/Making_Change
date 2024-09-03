@@ -1,4 +1,4 @@
-AP Computer Science A
+<b>AP Computer Science A</b>  
 Making Change App for Cashiers
 
 In this coding assignment, you are required to ask the user to input (1) the amount of a receipt and (2) how much money the customer gives the cashier. (2 points)
