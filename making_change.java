@@ -1,6 +1,6 @@
 class making_change{
 
-  public static int main(String[] args){
+  public static void main(String[] args){
 
 
   }  
